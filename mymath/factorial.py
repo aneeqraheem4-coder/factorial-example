@@ -12,4 +12,6 @@ def factorial(n):
     for i in range(1, n + 1):
         factorial = factorial * i
         # This comment triggers our workflow test
+         # This comment triggers our workflow test_2
+
     return factorial
